@@ -1,1 +1,0 @@
-https://api.openweathermap.org/data/2.5/weather?q=bhutan&appid=c3c5a29513a3457b854d8a4b90ca4635&units=metric
